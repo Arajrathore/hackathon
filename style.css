@@ -1,0 +1,19 @@
+h1{
+      
+    color: rgb(0, 0, 0);
+    display: flex;
+    margin-top: 1.2em;
+    font-size: 10em;
+    margin-left: 300px;
+    
+    border: black;
+    position: fixed;
+    border-radius: 200px;
+}
+body{
+    background-image: url(wallpaperflare.com_wallpaper.jpg);
+    background-size: cover;
+    height: 1000px;
+    
+    
+}
